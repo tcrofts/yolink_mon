@@ -1,0 +1,7 @@
+#
+# API key which can be generated on the
+# yolink app under settings -> acount 
+# -> advanced -> User Access Credentials
+#
+UA="ua_xxxxxxxxxx"
+SEC="sec_v1_xxxxxxxxx"
